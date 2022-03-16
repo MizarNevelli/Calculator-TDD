@@ -1,6 +1,6 @@
 # TDD React
 
-A simple Calculator app created for a blog post at [testdriven.io](https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/).
+A simple Calculator TDD App with the tutorial from testdriven.io: https://testdriven.io/blog/tdd-with-react-jest-and-enzyme-part-one/
 
 ## Local Setup
 
